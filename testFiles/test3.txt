@@ -1,0 +1,8 @@
+MatrixType=int
+NBRows=3
+NBColumns=3
+Matrix=[
+0 9 9
+1 0 0
+1 0 1
+]

@@ -1,0 +1,8 @@
+MatrixType=float
+NBRows=3
+NBColumns=3
+Matrix=[
+5 3 2
+1 0 8
+1 0 1
+]

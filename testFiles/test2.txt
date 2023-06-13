@@ -1,0 +1,8 @@
+MatrixType=double
+NBRows=3
+NBColumns=3
+Matrix=[
+5 3 6
+1 -2 8
+1 -2 8
+]
