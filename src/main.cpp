@@ -6,9 +6,9 @@
 */
 
 #include <iostream>
-#include "Exception.h"
-#include "FileAnalyser.h"
-#include "Matrix.h"
+#include "../headers/Exception.h"
+#include "../headers/FileAnalyser.h"
+#include "../headers/Matrix.h"
 
 using namespace std;
 
