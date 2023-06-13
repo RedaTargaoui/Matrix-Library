@@ -9,8 +9,8 @@
 #define MATRIX_DEF
 
 #include <iostream>
-#include "Exception.h"
-#include "Matrix.h"
+#include "../headers/Exception.h"
+#include "../headers/Matrix.h"
 
 using namespace std;
 
